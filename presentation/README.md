@@ -1,6 +1,7 @@
 # Presentation
 
-Place your slide deck in this folder.
+Place your slide deck in this folder[slides.pptx.pdf](https://github.com/user-attachments/files/32249166/slides.pptx.pdf)
+.
 
 ## Accepted Formats
 
