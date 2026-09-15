@@ -16,11 +16,11 @@ team:
     email: "26dcs079@charusat.edu.in"                          # REQUIRED — e.g., "alice.chen@ibm.com"
   members:
     - name: "ADITI THAKKAR"                         # REQUIRED — Team member 1
-      email: ""
+      email: "26cs121@charusat.edu.in"
     - name: "TANVI MODI "                         # Add more members by copying the two lines above
-      email: ""
+      email: "26dcs059@charusat.edu.in"
     - name: "KAVYA JARIWALA"
-      email: ""
+      email: "26ec044@charusat.edu.in"
 
 submission:
   title: "THREATWISE AI"                            # REQUIRED — Project display name, e.g., "SmartOps Dashboard"
