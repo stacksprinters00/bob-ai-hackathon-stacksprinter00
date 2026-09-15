@@ -29,14 +29,16 @@ Organize your code logically. Here are common patterns — use whatever fits
 your project:
 
 ### Web Application
+
+[risk_engine - Copy.py](https://github.com/user-attachments/files/32251668/risk_engine.-.Copy.py)
 ```
-src/
   backend/        ← API server code
   frontend/       ← UI code
   shared/         ← Shared utilities/types
 ```
 
 ### Data / AI Project
+[mitre - Copy.py](https://github.com/user-attachments/files/32251666/mitre.-.Copy.py)
 ```
 src/
   data/           ← Data ingestion / preprocessing
@@ -46,6 +48,7 @@ src/
 ```
 
 ### CLI / Script-based Tool
+[bluf - Copy.py](https://github.com/user-attachments/files/32251644/bluf.-.Copy.py)
 ```
 src/
   cli/            ← CLI entry points
