@@ -77,14 +77,17 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/[your-repo].git
-cd [your-repo]
+git clone https://github.com/[bob-ai-hackathon-stacksprinter00
+].git
+cd [bob-ai-hackathon-stacksprinter00
+]
+#no installation needed 
 
 # 2. Install dependencies
-[your install command here]
+this is pure python / java script project
 
 # 3. Configure environment
-cp .env.example .env
+suitable to run python 
 # Edit .env with your values
 
 # 4. Run the project
