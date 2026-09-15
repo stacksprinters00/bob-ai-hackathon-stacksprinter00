@@ -26,12 +26,10 @@ submission:
   title: "THREATWISE AI"                            # REQUIRED — Project display name, e.g., "SmartOps Dashboard"
 
   problem_statement: >                 # REQUIRED — 1-3 sentences. What problem? Who has it?
-    
+    Our project solves the problem of cybersecurity alert overload, where thousands of alerts from different sources make it difficult to identify genuine and critical threats. Defence/security analysts and commanders experience this problem because manually reviewing alerts is time-consuming, increases false-positive handling, and can cause important threats to be missed
 
   solution_summary: >                  # REQUIRED — 1-3 sentences. What did you build?
-    Replace this text with a clear description of your solution
-    and how it addresses the problem above.
-
+   
   key_features:                        # REQUIRED — List 3 to 5 specific features you implemented
     - ""                               # e.g., "Real-time pipeline anomaly detection using watsonx.ai"
     - ""
