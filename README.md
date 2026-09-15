@@ -1,4 +1,4 @@
-# 🚀 [Your Project Title Here]
+# 🚀 [threatwise-ai]
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
-| **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Name** | [stacksprinters] |
+| **Track** | [AI] |
+| **Team Lead** | [Diya patel] — [26dcs079@charusat.edu.in] |
+| **Members** | [aditi thakkar], [tanvi modi], [kavya jariwala] |
 
 ---
 
@@ -19,7 +19,7 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
+[Our project solves the problem of cybersecurity alert overload, where thousands of alerts from different sources make it difficult to identify genuine and critical threats. Defence/security analysts and commanders experience this problem because manually reviewing alerts is time-consuming, increases false-positive handling, and can cause important threats to be missed.]
 
 ---
 
@@ -27,29 +27,29 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[Describe your solution clearly. Explain the core mechanism — what makes it work.]
+[We built ThreatWise AI, a threat-intelligence assistant that ingests alerts from multiple sources, correlates related events, and uses risk scoring to prioritize genuine threats over false positives. It maps suspicious activity to MITRE ATT&CK and generates concise BLUF reports, helping analysts and commanders quickly understand and respond to the most critical incidents.]
 
 ---
 
 ## ✨ Key Features
 
-- **Feature 1:** [Brief description — e.g., "Real-time anomaly detection using watsonx.ai"]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
-- **Feature 4:** [Optional]
-- **Feature 5:** [Optional]
-
+- **Feature 1:** [Multi-Source Alert Ingestion Accept alerts in multiple formats: JSON,CSV,XML,TXT ,STIX/TAXII-style threat data]
+- **Feature 2:** [Intelligent Alert Correlation]
+- **Feature 3:** [False Positive Detection]
+- **Feature 4:** [Threat Risk Score]
+- **Feature 5:** [MITRE ATT&CK Mapping]
+-**Feature 6:** [Automatic BLUF Generation]
 ---
 
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
 |---|---|
-| **Languages** | [e.g., Python, TypeScript] |
-| **Frameworks** | [e.g., FastAPI, React] |
-| **IBM Technologies** | [e.g., watsonx.ai, IBM Bob, IBM Cloud] |
-| **Databases** | [e.g., PostgreSQL, Redis] |
-| **Other** | [e.g., Docker, GitHub Actions] |
+| **Languages** | [ Python, TypeScript] |
+| **Frameworks** | [FastAPI, React] |
+| **IBM Technologies** | [ watsonx.ai, IBM Bob, IBM Cloud] |
+| **Databases** | [ PostgreSQL, Redis] |
+| **Other** | [ GitHub Actions] |
 
 ---
 
@@ -108,14 +108,14 @@ cp .env.example .env
 
 > Be honest — judges appreciate transparency over overclaiming.
 
-- [Limitation 1: e.g., "Authentication is mocked — not production-ready"]
-- [Limitation 2: e.g., "Only tested on Chrome"]
-- [Limitation 3: e.g., "Feature X is scaffolded but not fully implemented"]
+- [Limitation 1: Data Dependency — Poor-quality data can reduce accuracy.]
+- [Limitation 2: Real-Time Integration — Live feeds require additional infrastructure.]
+- [Limitation 3: Human Verification — AI assists analysts but does not replace expert judgment.]
 
 ---
 
 ## 🏅 What We're Most Proud Of
 
-[Tell the judges what part of your submission is strongest and worth paying close attention to.]
+[ThreatWise AI turns thousands of noisy, disconnected cyber alerts into a small number of explainable, prioritized threat stories—and gives commanders a BLUF decision brief in seconds through IBM Bob.”]
 
 ---
